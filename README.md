@@ -1,1 +1,0 @@
-# pertemuan-10-tuple-seat-dictionary
